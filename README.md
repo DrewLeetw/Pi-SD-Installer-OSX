@@ -118,3 +118,7 @@ The disk name will likely be something similar to: `/dev/disk3s1`
 ## Download
 
 [Pi SD Card Images](http://www.raspberrypi.org/downloads)
+
+## Log Screenshot
+
+ ![](http://cms.35g.tw/coding/wp-content/uploads/2014/08/ScreenShot-Fully-Log.png)
