@@ -24,10 +24,9 @@ or
 python ./pisdinstaller.py ~/Downloads/wheezy-raspbian.img
 ```
 
-PI SD Installer is using dd command so,it will request sudouser password.
+PI SD Installer uses  dd command, so it will request sudouser password.
 
-#### Select the disk to write the image to by selecting the disk number provided in the output.
-
+#### Select the disk to write the image by selecting the disk number which is provided in the output.
 ```
 +------------------------+
 |No    disk       size   |
