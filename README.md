@@ -99,7 +99,7 @@ All Done!
 
 **The selecting ,your system drive will `overwrite` it!**
 
-If you are unsure which disk you need to select you can remove the SD card, check the mounted disks by running `df -hl` and then re-check after re-inserting the SD card.
+If you are unsure which disk you need to select, you can remove the SD card and check the mounted disks by running `df -hl`, and then re-check after re-inserting the SD
 
 eq.
 
