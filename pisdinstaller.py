@@ -90,7 +90,7 @@ def writeToImg(dev,size,unit, path):
 		return False
 		
 	disk_dev = '/dev/r' + disk_dev
-	ddcommand = ['sudo', 'dd', 'bs=1024', 'of=' + str(disk_dev),'if=' + str(path)]
+	ddcommand = ['sudo', 'dd', 'bs=8192', 'of=' + str(disk_dev),'if=' + str(path)]
 	print 'Generate DD command:'
 	printLine()
 	print '[',ddcommand[1],ddcommand[2],ddcommand[3],ddcommand[4],']'
