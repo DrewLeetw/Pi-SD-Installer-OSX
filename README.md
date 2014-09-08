@@ -4,6 +4,8 @@ PI SD Installer for OSX is using Python script to write image file to SD Card.
 
 Also,you can use for any Open Hardware that need sd card to boot system
 
+[![](https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_cart&business=KEDE6W7WQVA9E&lc=TW&item_name=Donate&amount=100&currency_code=TWD&button_subtype=products&add=1&bn=PP%2dShopCartBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+
 ## Python Script for creating Raspberry PI SD card on OS X.
 
 ---
